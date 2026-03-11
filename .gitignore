@@ -1,0 +1,9 @@
+.html
+.log
+*.tmp
+*.bak
+.env
+secrets.*
+**/secret
+**/password
+.DS_Store
